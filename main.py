@@ -18,7 +18,7 @@ GEMINI_API_KEY = "AIzaSyAx-Bl39LfGi5TvHOUdlftqemPKilqYKJw"
 # Gemini সেটআপ
 try:
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-pro')
 except Exception as e:
     print(f"Gemini Config Error: {e}")
 
