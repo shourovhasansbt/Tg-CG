@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 TELEGRAM_TOKEN = "8535188730:AAFxl7kqLD2Bxben8pgAB8ddIauJHHtqddk"
 
 # তোমার জেমিনি কি (Key)
-GEMINI_API_KEY = "AIzaSyCz00QSiAMFFmWelQ0SoduOjeIqtO0jeDg"
+GEMINI_API_KEY = "AIzaSyAx-Bl39LfGi5TvHOUdlftqemPKilqYKJw"
 
 # Gemini সেটআপ
 try:
